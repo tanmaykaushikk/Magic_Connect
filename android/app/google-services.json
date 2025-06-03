@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107654685874",
+    "project_id": "magicconnect-53046",
+    "storage_bucket": "magicconnect-53046.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107654685874:android:062f54bc6fc8b3d07755ab",
+        "android_client_info": {
+          "package_name": "com.magicconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-GJhJSN4hNI5Am7-BrwqQiAmIUf6y8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -22,7 +22,9 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#C6F19D',
+    // backgroundColor: '#C6F19D',
+    // backgroundColor:"#EC5E95",
+      backgroundColor:"#E6CFFD",
   },
   logoContainer: {
     marginBottom: 30,
